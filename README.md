@@ -9,8 +9,6 @@
 <p> - HTML</p>
 <p> - CSS</p>
 
-<h3>Desktop</h3>
-<img src="https://github.com/hoffmanndouglas-stack/easy-shopping/blob/main/assets/Desktop.png?raw=true"/>
-<h4>Mobile</h4>
-<img src="https://github.com/hoffmanndouglas-stack/easy-shopping/blob/main/assets/mobile.png?raw=true"/>
+<h3>Mockup</h3>
+<img src="./assets/Minimalist Website Launch Computer Mockup Instagram Post 4.png"/>
 
