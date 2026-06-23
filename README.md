@@ -5,9 +5,9 @@
 <p>Esse foi o primeiro projeto responsivo que aprendi. Funciona tanto para a versão <strong>Desktop</strong> quanto para a versão <strong>Mobile</strong>.
 
 <h2>Tecnologias utilizadas</h2>
-<br>
-<p> - HTML</p>
-<p> - CSS</p>
+
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 
 <h3>Desktop</h3>
 <img src="https://github.com/hoffmanndouglas-stack/easy-shopping/blob/main/assets/Desktop.png?raw=true"/>
